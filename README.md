@@ -2,7 +2,7 @@
 <h3 align = "center"> A Full Stack developer </h3>
 
 
-- 🔭 I’m currently working on a <a href="https://github.com/Pedro-B-Freitag/curso.git">School Project</a> 
+- 🔭 I’m currently working on <a href="https://github.com/stars/Pedro-B-Freitag/lists/school-projects">School Projects</a> 
 - 🌱 I’m currently learning Java, HTML, CSS, JavaScript and Spring Boot
 -  📫 How to reach me: pedrobosini09@icloud.com
 
