@@ -5,7 +5,6 @@
 
 
 
-- 🔭 I’m currently working on <a href="https://github.com/stars/Pedro-B-Freitag/lists/school-projects">School Projects</a> 
 - 🌱 I’m currently learning Java, HTML, CSS, JavaScript and Spring Boot
 -  📫 How to reach me: ✉️ Email - pedrobosini09@icloud.com
 
