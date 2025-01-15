@@ -27,9 +27,9 @@
 
 ## 📈 GitHub Stats:
 <div align = "center">
+[![card](https://github-readme-stats.vercel.app/api?username=Pedro-B-Freitag&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-B-Freitag&layout=compact)](https://github.com/Pedro-B-Freitag)
   
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Pedro-B-Freitag)](https://github.com/deepajarout)
 
 </div>
