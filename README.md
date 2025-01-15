@@ -10,7 +10,7 @@
 
   
 -  📖 Software Development Tech Course (Finished)
--  📖 Computer Science Bachelor (2/9)
+-  📖 Computer Science Bachelor (3/9)
 -  🌐 Languages:
    
      <img align="center" src= "https://github.com/Pedro-B-Freitag/Pedro-B-Freitag/assets/127051349/142066c5-93da-4047-b4aa-8f3cc0c7dc0a" height='25' > Portuguese
@@ -23,13 +23,15 @@
 ## 💻 Development:
 <div align = "center">
   <img align="center" src= "https://github.com/Pedro-B-Freitag/Pedro-B-Freitag/assets/127051349/1556e9f0-5699-4e5b-9da8-57eb9ccf306c" height='80' ><img align="center" src= "https://github.com/Pedro-B-Freitag/Pedro-B-Freitag/assets/127051349/38575df0-ea3e-40d2-be53-4999d6a7afd4" height='40' > <img align="center" src= "https://github.com/Pedro-B-Freitag/Pedro-B-Freitag/assets/127051349/4f1cb6e1-440a-4807-94b0-47ffe73c81dd" height='40' >
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-B-Freitag&layout=compact)](https://github.com/Pedro-B-Freitag)
 </div>
+
 
 ## 📈 GitHub Stats:
 <div align = "center">
+  
 [![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedro-B-Freitag&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-B-Freitag&layout=compact)](https://github.com/Pedro-B-Freitag)
-  
 
 </div>
