@@ -1,17 +1,21 @@
 <h1 align = "center"> Olá 👋, meu nome é Pedro B Freitag! </h1>
 
-💼 Trabalhando na <a href="https://www.megasul.com.br/">Megasul Sistemas</a>
-
 
 📫 Entre em contato comigo pelo <a href="https://www.linkedin.com/in/pedro-bosini-14a235177/" title="LinkedIn">Linkedin</a>
-
 
 📖 Bacharelado em Ciência da Computação (3/9)
   
 📖 Curso Técnico em Desenvolvimento de Sistemas (Completo)
 
+<br/>
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY9d-7xU3DtuVaCQ3QJ4-fDDf5Sj9J5YR1Kg&s"/>](https://www.megasul.com.br/)
 
+**Estagiário em Qualidade** \
+[**Megasul**](https://www.megasul.com.br/) • 6 horas \
+Linguagens & Tecnologias: `Java`, `Selenium`
+<br/>
+<br/>
 
 ## 💻 Desenvolvimento:
 <div align = "center">
