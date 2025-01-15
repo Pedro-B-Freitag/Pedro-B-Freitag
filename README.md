@@ -1,7 +1,7 @@
 <h1 align = "center"> Olá 👋, meu nome é Pedro B Freitag! </h1>
 
 
-📫 Entre em contato comigo pelo <a href="https://www.linkedin.com/in/pedro-bosini-14a235177/" title="LinkedIn">Linkedin</a>
+
 
 📖 Bacharelado em Ciência da Computação (3/9)
   
@@ -16,6 +16,8 @@
 Linguagens & Tecnologias: `Java`, `Selenium`
 <br/>
 <br/>
+
+📫 Entre em contato comigo pelo <a href="https://www.linkedin.com/in/pedro-bosini-14a235177/" title="LinkedIn">Linkedin</a>
 
 ## 💻 Desenvolvimento:
 <div align = "center">
