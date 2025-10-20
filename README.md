@@ -11,9 +11,9 @@
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY9d-7xU3DtuVaCQ3QJ4-fDDf5Sj9J5YR1Kg&s"/>](https://www.megasul.com.br/)
 
-**Estagiário em Qualidade** \
-[**Megasul**](https://www.megasul.com.br/) • 6 horas \
-Linguagens & Tecnologias: `Java`, `Selenium`
+**Assistente de desenvolvimento** \
+[**Megasul**](https://www.megasul.com.br/) • 8 horas \
+Linguagens & Tecnologias: `Java`, `C#`
 <br/>
 <br/>
 
