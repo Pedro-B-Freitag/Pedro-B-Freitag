@@ -13,7 +13,7 @@
 
 **Desenvolvedor Júnior** \
 [**Megasul**](https://www.megasul.com.br/) • 8 horas \
-Linguagens & Tecnologias: `Java`, `C#`
+Linguagens & Tecnologias: `Java`, `.NET`, `Delphi`
 <br/>
 <br/>
 
