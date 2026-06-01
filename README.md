@@ -17,7 +17,7 @@ Linguagens & Tecnologias: `Java`, `.NET`, `Delphi`
 <br/>
 <br/>
 
-📫 Entre em contato comigo pelo <a href="https://www.linkedin.com/in/pedro-bosini-14a235177/" title="LinkedIn">Linkedin</a>
+📫 Entre em contato comigo pelo <a href="https://www.linkedin.com/in/pedro-freitag-14a235177" title="LinkedIn">Linkedin</a>
 
 ## 💻 Desenvolvimento:
 <div align = "center">
